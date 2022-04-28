@@ -1,5 +1,5 @@
 # qa-development-challenging
-This is automated testing framework for Aspire application
+This is Code challenge round when I applied Aspire
 
 ## 1. Getting started
 ### Prerequisites
